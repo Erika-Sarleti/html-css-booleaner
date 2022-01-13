@@ -18,6 +18,10 @@ header {
 main {
     margin-left: 5px;
 }
+
+section{
+    margin-bottom: 20px;
+}
 .sottotitolo.autore{
     color: rgb(109, 107, 107);
     margin-top: 5px;
@@ -31,4 +35,8 @@ a {
 
 .smalltext{
     font-size: 11px;
+}
+
+.evidenziato{
+    background-color: gold;
 }
