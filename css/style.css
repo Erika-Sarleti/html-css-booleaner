@@ -40,3 +40,7 @@ a {
 .evidenziato{
     background-color: gold;
 }
+
+li{
+    margin-left:0;
+}
