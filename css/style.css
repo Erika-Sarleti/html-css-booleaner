@@ -65,4 +65,31 @@ tbody {
 
 footer{
     margin-left: 5px;
+    
+}
+.footer-title{
+    color: gray;
+    margin-bottom: 10px
+    ;
+}
+.image1{
+    position: relative;
+}
+
+.image1>h3{
+    position:absolute;
+    color: white;
+    top: 5px;
+    left: 5px;
+}
+.image2{
+    position: relative;
+}
+
+.image2>h3{
+    position:absolute;
+    top: 5px;
+    left: 5px;
+    color: white;
+    
 }
